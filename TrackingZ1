@@ -1,0 +1,20 @@
+A<-------{()}
+i<--------1
+Dz<---------Dz
+while z<i<n
+do a1<----------SelectValue{Dz,Az}
+if az<------------selectvalue{Dz,A,Z}
+if Az<-----Tail(A)
+Else
+A<-----------Cons(A1,A)
+i<------------i+1
+ifI<n
+then Dz<-------Dz1
+Return Tail(Reverse (A))
+SelectValue(Dz,A,Z)
+While Not Empty(dz)
+Do Az<------------Head(D)
+Dz<----------Tail(Dz)
+if Consistent(A,Z=Az)
+Then Return
+Retrurn Null
